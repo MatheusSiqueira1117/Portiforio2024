@@ -19,11 +19,11 @@ li{
    
 }
 header nav ul li{
-    display: inline;
+    display: inline-flex;
     text-transform: uppercase;
     font-style: italic;
     padding: 25px;
-    opacity: 0.5;
+    margin: 50px;
 }
 header nav{
     padding: 50px;
